@@ -1,0 +1,15 @@
+[
+{
+"drone": "http://example.com",
+"timestamp": "2019-08-24T14:15:22Z",
+"speed": 2147483647,
+"align_roll": "string",
+"align_pitch": "string",
+"align_yaw": "string",
+"longitude": 8.678137129,
+"latitude": 50.107668121,
+"battery_status": 2147483647,
+"last_seen": "2019-08-24T14:15:22Z",
+"status": "ON"
+}
+]

@@ -1,0 +1,10 @@
+[
+{
+  "id": 0,
+  "dronetype": "http://example.com",
+  "created": "2019-08-24T14:15:22Z",
+  "serialnumber": "string",
+  "carriage_weight": 2147483647,
+  "carriage_type": "SEN"
+}
+]

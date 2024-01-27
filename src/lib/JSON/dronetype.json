@@ -1,0 +1,12 @@
+[
+{
+"id": 0,
+"manufacturer": "string",
+"typename": "string",
+"weight": 2147483647,
+"max_speed": 2147483647,
+"battery_capacity": 2147483647,
+"control_range": 2147483647,
+"max_carriage": 2147483647
+}
+]
